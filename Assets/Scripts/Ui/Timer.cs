@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class Timer : MonoBehaviour
 {
     [SerializeField]
-    float time = 180;
+    public float time = 180;
     public TextMeshProUGUI timeText;
 
     private void Update()
