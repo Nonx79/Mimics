@@ -313,14 +313,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 653227021617758093, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
-      propertyPath: m_Size.x
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 653227021617758093, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
-      propertyPath: m_Size.z
-      value: 9.5
-      objectReference: {fileID: 0}
     - target: {fileID: 1083051578389796064, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10.092308
@@ -332,26 +324,6 @@ PrefabInstance:
     - target: {fileID: 3381907748000096016, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
       propertyPath: m_Name
       value: House_A
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124145543349886770, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.15
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124145543349886770, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -8.904296
-      objectReference: {fileID: 0}
-    - target: {fileID: 4430816006535836855, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 10.24231
-      objectReference: {fileID: 0}
-    - target: {fileID: 8246093338310697814, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
-      propertyPath: m_Size.x
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 8246093338310697814, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
-      propertyPath: m_Size.z
-      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 8687851353332481809, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
       propertyPath: m_Size.x
@@ -393,29 +365,10 @@ MonoBehaviour:
   bedroomAreas:
   - {fileID: 10056827}
   bathroomObjectsUnique:
-  - {fileID: 919132149155446097, guid: 382a0869e9925ab41a1a99fcaa1bfa53, type: 3}
-  - {fileID: 919132149155446097, guid: 1effb9582eeef7a47a147ab66461036b, type: 3}
-  - {fileID: 919132149155446097, guid: 679c5134fb921de40b4162c65065cd01, type: 3}
+  - {fileID: 919132149155446097, guid: c973bfae6269ff24ea4e1d13c3c6f845, type: 3}
   bathroomObjectsRepeatable:
-  - {fileID: 919132149155446097, guid: 3bdf762618ad00841a018e6b01112548, type: 3}
-  - {fileID: 919132149155446097, guid: 659b25d6c8b376941b14f5b502112847, type: 3}
-  kitchenObjectsUnique:
-  - {fileID: 919132149155446097, guid: 622f4749d44e4d449bf73f1ca106f075, type: 3}
-  - {fileID: 919132149155446097, guid: 3786b12161eedee4fbf748055b70269a, type: 3}
-  - {fileID: 919132149155446097, guid: a0325e10adc0e8f40bf24d40d748a0a9, type: 3}
-  kitchenObjectsRepeatable:
-  - {fileID: 919132149155446097, guid: 32df30f563bf00246abbb875b517d665, type: 3}
-  - {fileID: 919132149155446097, guid: b83bf99734eb24a49b94bcd16965bb9a, type: 3}
-  bedroomObjectsUnique:
-  - {fileID: 919132149155446097, guid: 432af35131b54ab4f803afa8efad9cce, type: 3}
-  - {fileID: 919132149155446097, guid: 0441d551360fad44a89a7a27a3107bd8, type: 3}
-  - {fileID: 919132149155446097, guid: 4ecb1ab635b50ea47b927fc15a822d62, type: 3}
-  bedroomObjectsRepeatable:
-  - {fileID: 919132149155446097, guid: 2fe4e5df55fd9ed4f8e5ab0b7fc3078b, type: 3}
-  - {fileID: 919132149155446097, guid: 3bdf762618ad00841a018e6b01112548, type: 3}
-  - {fileID: 919132149155446097, guid: 659b25d6c8b376941b14f5b502112847, type: 3}
-  - {fileID: 919132149155446097, guid: 8573308d2ff6ebc409371eccc47aff7c, type: 3}
-  - {fileID: 919132149155446097, guid: 82f4707c663ff3841828996fadd6cb5c, type: 3}
+  - {fileID: 919132149155446097, guid: 39e9432ed7f01cb46b9b30224c257ed5, type: 3}
+  - {fileID: 919132149155446097, guid: 4e3f53495a8af4e4ba91d1c4ca21643e, type: 3}
 --- !u!65 &1573236445 stripped
 BoxCollider:
   m_CorrespondingSourceObject: {fileID: 8687851353332481809, guid: 0a283d1add63e4b48934423d742cef9b, type: 3}
